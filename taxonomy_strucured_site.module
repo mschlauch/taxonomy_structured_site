@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the taxonomy strucured site feature.
+ */
+
+include_once 'taxonomy_strucured_site.features.inc';
